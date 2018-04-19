@@ -1,0 +1,22 @@
+﻿  main.cpp
+h:\desktop\university\3dgp\assesments\hero demo\02 natural phenomena\100.waterinitial\3dgp\main.cpp(409): warning C4305: 'initializing': truncation from 'double' to 'float'
+h:\desktop\university\3dgp\assesments\hero demo\02 natural phenomena\100.waterinitial\3dgp\main.cpp(514): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+h:\desktop\university\3dgp\assesments\hero demo\02 natural phenomena\100.waterinitial\3dgp\main.cpp(516): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+h:\desktop\university\3dgp\assesments\hero demo\02 natural phenomena\100.waterinitial\3dgp\main.cpp(524): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+h:\desktop\university\3dgp\assesments\hero demo\02 natural phenomena\100.waterinitial\3dgp\main.cpp(526): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+h:\desktop\university\3dgp\assesments\hero demo\02 natural phenomena\100.waterinitial\3dgp\main.cpp(534): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+h:\desktop\university\3dgp\assesments\hero demo\02 natural phenomena\100.waterinitial\3dgp\main.cpp(536): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+h:\desktop\university\3dgp\assesments\hero demo\02 natural phenomena\100.waterinitial\3dgp\main.cpp(544): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+h:\desktop\university\3dgp\assesments\hero demo\02 natural phenomena\100.waterinitial\3dgp\main.cpp(546): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+h:\desktop\university\3dgp\assesments\hero demo\02 natural phenomena\100.waterinitial\3dgp\main.cpp(594): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+h:\desktop\university\3dgp\assesments\hero demo\02 natural phenomena\100.waterinitial\3dgp\main.cpp(596): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+h:\desktop\university\3dgp\assesments\hero demo\02 natural phenomena\100.waterinitial\3dgp\main.cpp(604): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+h:\desktop\university\3dgp\assesments\hero demo\02 natural phenomena\100.waterinitial\3dgp\main.cpp(606): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+h:\desktop\university\3dgp\assesments\hero demo\02 natural phenomena\100.waterinitial\3dgp\main.cpp(616): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+h:\desktop\university\3dgp\assesments\hero demo\02 natural phenomena\100.waterinitial\3dgp\main.cpp(624): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+h:\desktop\university\3dgp\assesments\hero demo\02 natural phenomena\100.waterinitial\3dgp\main.cpp(626): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+h:\desktop\university\3dgp\assesments\hero demo\02 natural phenomena\100.waterinitial\3dgp\main.cpp(634): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+h:\desktop\university\3dgp\assesments\hero demo\02 natural phenomena\100.waterinitial\3dgp\main.cpp(636): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+h:\desktop\university\3dgp\assesments\hero demo\02 natural phenomena\100.waterinitial\3dgp\main.cpp(663): warning C4101: 'matrix': unreferenced local variable
+  3dgp.vcxproj -> H:\Desktop\UNIVERSITY\3DGP\Assesments\Hero Demo\02 Natural Phenomena\100.WaterInitial\Debug\Water.exe
+  3dgp.vcxproj -> H:\Desktop\UNIVERSITY\3DGP\Assesments\Hero Demo\02 Natural Phenomena\100.WaterInitial\Debug\Water.pdb (Full PDB)
